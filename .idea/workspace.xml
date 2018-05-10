@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d6643d5-b726-4ae6-a033-a93c7055f355" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/开发使用/EOSIO 转帐详解.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/开发工具/EOS 开发终极神器－vscode (你绝对找不到的干货).md" />
+      <change beforePath="$PROJECT_DIR$/EOS Dawn 3.0 cleos 基础操作.md" afterPath="$PROJECT_DIR$/cleos/EOS Dawn 3.0 cleos 基础操作.md" />
+      <change beforePath="$PROJECT_DIR$/EOS 安装本地环境，并实现发币转账等功能.md" afterPath="$PROJECT_DIR$/小白入门/EOS 安装本地环境，并实现发币转账等功能.md" />
+      <change beforePath="$PROJECT_DIR$/EOS 帐户权限操作－－你找不到的干货 (原创) 续集-EOS 3.0.md" afterPath="$PROJECT_DIR$/开发使用/EOS 帐户权限操作－－你找不到的干货 (原创) 续集-EOS 3.0.md" />
+      <change beforePath="$PROJECT_DIR$/EOS 智能合约模板 (二).md" afterPath="$PROJECT_DIR$/智能合约/EOS 智能合约模板 (二).md" />
+      <change beforePath="$PROJECT_DIR$/EOS 智能合约模板.md" afterPath="$PROJECT_DIR$/智能合约/EOS 智能合约模板.md" />
+      <change beforePath="$PROJECT_DIR$/EOS3.0 测试网络组建-EOS 中文社区特辑.md" afterPath="$PROJECT_DIR$/开发使用/EOS3.0 测试网络组建-EOS 中文社区特辑.md" />
+      <change beforePath="$PROJECT_DIR$/EOS3.0-HelloWorld教程.md" afterPath="$PROJECT_DIR$/智能合约/EOS3.0-HelloWorld教程.md" />
+      <change beforePath="$PROJECT_DIR$/EOS3.0-开发指南.md" afterPath="$PROJECT_DIR$/智能合约/EOS3.0-开发指南.md" />
+      <change beforePath="$PROJECT_DIR$/EOS3.0-智能合约.md" afterPath="$PROJECT_DIR$/智能合约/EOS3.0-智能合约.md" />
+      <change beforePath="$PROJECT_DIR$/EOSIO3.0数据库使用指南.md" afterPath="$PROJECT_DIR$/开发使用/EOSIO3.0数据库使用指南.md" />
+      <change beforePath="$PROJECT_DIR$/EOS学习阶段性总结.md" afterPath="$PROJECT_DIR$/开发使用/EOS学习阶段性总结.md" />
+      <change beforePath="$PROJECT_DIR$/Qt Creator 开发 EOS 3.0 智能合约使用指南.md" afterPath="$PROJECT_DIR$/开发工具/Qt Creator 开发 EOS 3.0 智能合约使用指南.md" />
+      <change beforePath="$PROJECT_DIR$/cleos 命令大全之 wallet 命令.md" afterPath="$PROJECT_DIR$/cleos/cleos 命令大全之 wallet 命令.md" />
+      <change beforePath="$PROJECT_DIR$/dice 智能合约应该这么玩.md" afterPath="$PROJECT_DIR$/智能合约/dice 智能合约应该这么玩.md" />
+      <change beforePath="$PROJECT_DIR$/一个针对EOSIO区块生产员的DDOS攻击的缓解方案.md" afterPath="$PROJECT_DIR$/精品文章/一个针对EOSIO区块生产员的DDOS攻击的缓解方案.md" />
+      <change beforePath="$PROJECT_DIR$/基于 linux 的 eos 开发中的坑 (1).md" afterPath="$PROJECT_DIR$/小白入门/基于 linux 的 eos 开发中的坑 (1).md" />
+      <change beforePath="$PROJECT_DIR$/心心念念的 Lover Wall 3.0版本来了(原创).md" afterPath="$PROJECT_DIR$/智能合约/心心念念的 Lover Wall 3.0版本来了(原创).md" />
+      <change beforePath="$PROJECT_DIR$/贡献一个测试基础功能的 shell 脚本.md" afterPath="$PROJECT_DIR$/开发工具/贡献一个测试基础功能的 shell 脚本.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="EOS3.0-开发指南.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/智能合约/EOS3.0-开发指南.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EOS3.0-智能合约.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/智能合约/EOS3.0-智能合约.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1525955077990" expanded="true" signature="1753:2284" ph="{&quot;expiration&quot;: &quot;2018-04-01T15:20:44&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="1977:2225" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="1978:2221" ph="{&quot;name&quot;: &quot;issue&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="2058:2139" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="2059:2131" ph="{&quot;actor&quot;: &quot;eosio&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="2243:2255" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="2321:2930" ph="{&quot;expiration&quot;: &quot;...&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="2518:2871" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="2519:2692" ph="{&quot;name&quot;: &quot;...&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="2589:2665" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="2590:2657" ph="{&quot;actor&quot;: &quot;...&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="2694:2867" ph="{&quot;name&quot;: &quot;...&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="2764:2840" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="2765:2832" ph="{&quot;actor&quot;: &quot;...&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="2889:2901" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="5239:5892" ph="{...}" />
+                  <marker date="1525955077990" expanded="true" signature="5252:5324" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="5253:5320" ph="{&quot;new_type_name&quot;: &quot;account_name&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="5339:5644" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="5340:5508" ph="{&quot;name&quot;: &quot;transfer&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="5402:5502" ph="{&quot;from&quot;: &quot;account_name&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="5509:5640" ph="{&quot;name&quot;: &quot;account&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="5570:5634" ph="{&quot;account&quot;: &quot;name&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="5659:5724" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="5660:5720" ph="{&quot;action&quot;: &quot;transfer&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="5738:5890" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="5739:5886" ph="{&quot;table&quot;: &quot;account&quot;...}" />
+                  <marker date="1525955077990" expanded="true" signature="6548:6638" ph="{...}" />
+                  <marker date="1525955077990" expanded="true" signature="6561:6633" ph="[...]" />
+                  <marker date="1525955077990" expanded="true" signature="6562:6629" ph="{&quot;new_type_name&quot;: &quot;account_name&quot;...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EOSIO 转帐详解.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/开发使用/EOSIO 转帐详解.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="781">
+                <caret line="145" column="0" lean-forward="true" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EOS 帐户权限操作－－你找不到的干货 (原创) 续集-EOS 3.0.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/开发使用/EOS 帐户权限操作－－你找不到的干货 (原创) 续集-EOS 3.0.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EOS 开发终极神器－vscode (你绝对找不到的干货).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/开发工具/EOS 开发终极神器－vscode (你绝对找不到的干货).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2412">
+                <caret line="134" column="0" lean-forward="true" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/开发使用/EOSIO 转帐详解.md" />
+        <option value="$PROJECT_DIR$/开发工具/EOS 开发终极神器－vscode (你绝对找不到的干货).md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="364" />
+    <option name="y" value="1436" />
+    <option name="width" value="1863" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eos-tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eos-tutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eos-tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eos-tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="开发使用" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eos-tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eos-tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="开发工具" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/开发工具" />
+      <recent name="$PROJECT_DIR$/智能合约" />
+      <recent name="$PROJECT_DIR$/小白入门" />
+      <recent name="$PROJECT_DIR$/精品文章" />
+      <recent name="$PROJECT_DIR$/开发使用" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d6643d5-b726-4ae6-a033-a93c7055f355" name="Default" comment="" />
+      <created>1525955095592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525955095592</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="364" y="1436" width="1863" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/智能合约/EOS3.0-开发指南.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能合约/EOS3.0-智能合约.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1525955077990" expanded="true" signature="1753:2284" ph="{&quot;expiration&quot;: &quot;2018-04-01T15:20:44&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="1977:2225" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="1978:2221" ph="{&quot;name&quot;: &quot;issue&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="2058:2139" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="2059:2131" ph="{&quot;actor&quot;: &quot;eosio&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="2243:2255" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="2321:2930" ph="{&quot;expiration&quot;: &quot;...&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="2518:2871" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="2519:2692" ph="{&quot;name&quot;: &quot;...&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="2589:2665" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="2590:2657" ph="{&quot;actor&quot;: &quot;...&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="2694:2867" ph="{&quot;name&quot;: &quot;...&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="2764:2840" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="2765:2832" ph="{&quot;actor&quot;: &quot;...&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="2889:2901" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="5239:5892" ph="{...}" />
+              <marker date="1525955077990" expanded="true" signature="5252:5324" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="5253:5320" ph="{&quot;new_type_name&quot;: &quot;account_name&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="5339:5644" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="5340:5508" ph="{&quot;name&quot;: &quot;transfer&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="5402:5502" ph="{&quot;from&quot;: &quot;account_name&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="5509:5640" ph="{&quot;name&quot;: &quot;account&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="5570:5634" ph="{&quot;account&quot;: &quot;name&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="5659:5724" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="5660:5720" ph="{&quot;action&quot;: &quot;transfer&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="5738:5890" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="5739:5886" ph="{&quot;table&quot;: &quot;account&quot;...}" />
+              <marker date="1525955077990" expanded="true" signature="6548:6638" ph="{...}" />
+              <marker date="1525955077990" expanded="true" signature="6561:6633" ph="[...]" />
+              <marker date="1525955077990" expanded="true" signature="6562:6629" ph="{&quot;new_type_name&quot;: &quot;account_name&quot;...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发使用/EOSIO 转帐详解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="781">
+            <caret line="145" column="0" lean-forward="true" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发使用/EOS 帐户权限操作－－你找不到的干货 (原创) 续集-EOS 3.0.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发工具/EOS 开发终极神器－vscode (你绝对找不到的干货).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2412">
+            <caret line="134" column="0" lean-forward="true" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
